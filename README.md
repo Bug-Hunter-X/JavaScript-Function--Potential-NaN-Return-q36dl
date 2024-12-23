@@ -1,0 +1,1 @@
+This repository contains a JavaScript function with a potential bug and its solution. The original function, `foo`, adds two inputs.  However, it doesn't handle the case where the inputs are not numbers, potentially returning NaN. The solution adds type checking to prevent this.
